@@ -1,4 +1,4 @@
-# Outil de Test de Sécurité Facebook avec IA Avancée | À des fins éducatives uniquement
+# Outil de Hacking de Sécurité Facebook avec IA Avancée 2026 | À des fins éducatives uniquement
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![IA](https://img.shields.io/badge/IA-Activée-vert)
