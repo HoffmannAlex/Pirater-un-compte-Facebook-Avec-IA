@@ -136,10 +136,6 @@ Modifiez `facebook_config.json` pour personnaliser :
 - Toutes les données sensibles sont traitées de manière sécurisée
 - Journalisation claire de toutes les actions pour la traçabilité
 
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Veuillez lire nos [Directives de Contribution](CONTRIBUTING.md) pour plus de détails sur notre code de conduite et le processus de soumission des demandes d'ajout.
-
 ## 📄 Licence
 
 Ce projet est sous licence MIT - voir le fichier [LICENCE](LICENSE) pour plus de détails.
